@@ -2,7 +2,7 @@ package EstructurasDeControl;
 
 import java.util.Scanner;
 
-public class Ejercicio38 {
+public class Ejercicio38_WHILE {
     /*
     Escribe un programa que solicite al usuario un número entre 1 y 100, ambos
 inclusive. Si se introduce un número fuera del intervalo debe indicarlo mediante un

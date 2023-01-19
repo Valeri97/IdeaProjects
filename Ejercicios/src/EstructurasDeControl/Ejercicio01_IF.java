@@ -2,9 +2,10 @@ package EstructurasDeControl;
 
 import java.util.Scanner;
 
-public class Ejercicio01 {
+public class Ejercicio01_IF {
     public static void main(String[] args) {
-        /*Escribe un programa que pida un número e indique si es par o impar (un número es
+        /*
+        Escribe un programa que pida un número e indique si es par o impar (un número es
 par si al dividirlo entre 2 el resto es 0).
          */
         Scanner sc = new Scanner(System.in);

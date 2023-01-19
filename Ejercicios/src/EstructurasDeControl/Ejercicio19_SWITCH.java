@@ -2,7 +2,7 @@ package EstructurasDeControl;
 
 import java.util.Scanner;
 
-public class Ejercicio19 {
+public class Ejercicio19_SWITCH {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Número");

@@ -17,6 +17,5 @@ entrado al sistema”, en caso contrario se da un error.
 
         System.out.println("Contraseña: ");
         String contraseña = sc.nextLine();
-
     }
 }
